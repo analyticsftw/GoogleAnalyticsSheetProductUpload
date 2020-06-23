@@ -19,6 +19,8 @@ Google Apps script to post a Google Sheet to Google Analytics as Product Data Im
 3. Go to Tools > Script Editor
 4. Edit the Code.gs file and use/adjust the code provided in this project.
 
+An [example Google Sheet](https://docs.google.com/spreadsheets/d/1mJqOExiQsrERboGQ28sRGmBQ5CUqlriJQQ8H2UB41Kk/edit?usp=sharing) is available for structure and comment 
+
 ## Enabling Google Analytics API access in Google Sheets
 1. Open your Google Sheet
 2. Go to *Tools* > *Script Editor*
