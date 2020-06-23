@@ -1,5 +1,6 @@
 # GoogleAnalyticsSheetProductUpload
 Google Apps script to post a Google Sheet to Google Analytics as Product Data Import using the Management API
+Watch the tutorial video at (https://www.youtube.com/watch?v=ftrj9myfbGQ) 
 
 ## Pre-requisites:
 - Google Analytics property 
